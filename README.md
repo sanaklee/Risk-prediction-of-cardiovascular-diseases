@@ -57,15 +57,6 @@ git clone <repo-url>
 cd <repo-folder>
 pip install -r requirements.txt
 
-requirements.txt:
-
-PySide6
-pandas
-numpy
-scikit-learn
-joblib
-Usage
-
 
 Then run:
 
